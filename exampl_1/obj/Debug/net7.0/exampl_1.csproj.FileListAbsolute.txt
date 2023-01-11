@@ -1,0 +1,15 @@
+F:\c#examples\exampl_1\bin\Debug\net7.0\exampl_1.exe
+F:\c#examples\exampl_1\bin\Debug\net7.0\exampl_1.deps.json
+F:\c#examples\exampl_1\bin\Debug\net7.0\exampl_1.runtimeconfig.json
+F:\c#examples\exampl_1\bin\Debug\net7.0\exampl_1.dll
+F:\c#examples\exampl_1\bin\Debug\net7.0\exampl_1.pdb
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.csproj.AssemblyReference.cache
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.AssemblyInfoInputs.cache
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.AssemblyInfo.cs
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.csproj.CoreCompileInputs.cache
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.dll
+F:\c#examples\exampl_1\obj\Debug\net7.0\refint\exampl_1.dll
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.pdb
+F:\c#examples\exampl_1\obj\Debug\net7.0\exampl_1.genruntimeconfig.cache
+F:\c#examples\exampl_1\obj\Debug\net7.0\ref\exampl_1.dll
